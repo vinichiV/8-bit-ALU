@@ -1,7 +1,8 @@
-# **Main functions:**
+# **This 8-bit ALU performs the following functions:**
 - Operand inversion
 - AND, OR bitwise
-- Shift, rotate bits
-- Addition and subtraction *(Designed based on **Carry Look-Ahead Technique**)*
+- Shift operation (Logical and Arithmetic)
+- Rotate operation
+- Addition and Subtraction *(Designed based on **Carry Look-Ahead Technique**)*
 - Setting zero
 - Return flags
