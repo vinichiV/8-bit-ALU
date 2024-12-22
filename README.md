@@ -1,7 +1,13 @@
-# Main functions:
-Operand inversion
-AND, OR bitwise
-Shift, rotate bits
-Addition and subtraction
-Setting zero
-Return flags
+## Main Functions
+- **Operand inversion**: Đảo ngược toán hạng.
+- **Bitwise Operations**:
+  - `AND`
+  - `OR`
+- **Bit Manipulations**:
+  - Shift bits
+  - Rotate bits
+- **Arithmetic Operations**:
+  - Addition
+  - Subtraction
+- **Zero Setting**: Đặt giá trị về zero.
+- **Return Flags**: Trả về cờ trạng thái (flags).
