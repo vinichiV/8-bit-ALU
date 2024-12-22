@@ -1,4 +1,4 @@
-## Main functions:
+## **Main functions:**
 - Operand inversion
 - AND, OR bitwise
 - Shift, rotate bits
